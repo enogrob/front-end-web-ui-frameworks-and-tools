@@ -26,11 +26,11 @@ Full Stack Web Development: The Big Picture
 [x] Full Stack Web Development: Additional Resources 10 min
 
 Introduction to Bootstrap
-[ ] Objectives and Outcomes 10 min
-[ ] Front-end Web UI Frameworks: An Introduction 6 min
-[ ] Introduction to Bootstrap 2 min
-[ ] Getting Started with Bootstrap 9 min
-[ ] Setting up your Development Environment 10 min
+[x] Objectives and Outcomes 10 min
+[x] Front-end Web UI Frameworks: An Introduction 6 min
+[x] Introduction to Bootstrap 2 min
+[x] Getting Started with Bootstrap 9 min
+[x] Setting up your Development Environment 10 min
 [ ] Exercise (Video): Getting Started with Bootstrap 11 min
 [ ] Exercise (Instructions): Getting Started with Bootstrap 10 min
 [ ] Practice Quiz: Introduction to Bootstrap 3 questions
